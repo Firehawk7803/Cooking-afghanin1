@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 body {
@@ -96,4 +97,14 @@ img {
   text-align: center;
   margin-top: 10px;
   font-size: 30px;
+}
+
+#contact-img {
+  width: 100vw;
+  height: 20vh;
+}
+
+#contact-image {
+  width: 100%;
+  height: 100%;
 }
