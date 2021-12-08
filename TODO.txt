@@ -1,0 +1,5 @@
+1. Cut the manto.jpg just a bit at the bottom
+2. Add hover effect to footer buttons
+    zoom in 1.1
+    change color and background-color
+3. Change image at about.html
